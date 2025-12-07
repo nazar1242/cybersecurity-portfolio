@@ -1,6 +1,5 @@
 # cybersecurity-portfolio
 Showcase of hands-on cybersecurity skills: risk assessment reports, Python scripts for security automation, SQL analytics, and network defense labs (Nmap, Wireshark). Completed Google Professional Certificate.
-# 🛡️ Портфоліо з Кібербезпеки
 # Привіт! Я **Власюк Назар Олегович**, студент **Донецького національного університету імені Василя Стуса** за спеціальністю Кібербезпека.
 
 Цей репозиторій є колекцією моїх практичних проєктів, які демонструють навички аналізу, розслідування та захисту. Я успішно завершив **Google Cybersecurity Professional Certificate** і шукаю позицію **Junior SOC Analyst / Cybersecurity Specialist**.

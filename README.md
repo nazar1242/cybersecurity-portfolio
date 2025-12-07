@@ -28,7 +28,7 @@ Showcase of hands-on cybersecurity skills: risk assessment reports, Python scrip
     * **Encryption (Шифрування)**[cite: 4, 48, 107]: Відсутність шифрування ставила під загрозу конфіденційність платіжних даних клієнтів (PCI DSS).
     * **Disaster Recovery Plans (Плани відновлення)** [cite: 4, 54, 113][cite_start]: Плани відновлення після катастроф та резервне копіювання критичних даних були відсутні[cite: 4, 54, 113].
 * **Рекомендації:** Розроблено план впровадження контролів, включаючи IDS, надійні політики паролів та Separation of Duties[cite: 14, 15].
-* **Посилання на Звіт:** [Link to Audit Report Folder](01-Botium-Toys-Audit/ControlsAndComplianceChecklist.md)
+* **Посилання на Звіт:** [Link to Audit Report Folder](01-Botium-Toys-Audit/Controls and compliance checklist.docx)
 
 ---
 
